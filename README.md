@@ -17,11 +17,13 @@
 ## ⌨️LeetCode Stats:
 <img src="https://leetcard.jacoblin.cool/gustavobf?theme=nord&font=JetBrains%20Mono" height="150"><br/>
 
-![](https://visitcount.itsvg.in/api?id=gustavobf&label=Profile%20Views&color=6&icon=1&pretty=true)
-
 ## 📃Certificates
   - [AZ900 - Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/719290ed-1fd2-4e80-b203-51281371d386/public_url)
   - [Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1CCC314C346DBC8A304439BB8B4AB1A629F709AAA98A5CE8E3FA404AF83C5BA2)
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/130563de-2906-46f2-a8d3-96f93acc3068/linked_in_profile)
+
+<br/>
+
+![](https://visitcount.itsvg.in/api?id=gustavobf&label=Profile%20Views&color=6&icon=1&pretty=true)
 
 ---
